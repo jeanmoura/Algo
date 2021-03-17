@@ -1,5 +1,4 @@
-// Optimized java implementation 
-// of Bubble sort 
+// Optimized java implementation of Bubble sort 
 
 class GFG 
 { 
