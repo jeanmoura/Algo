@@ -1,3 +1,3 @@
-# Sorting algorithms solution:
+# Algorithms solutions:
 BubbleSort, BubbleSortImproved, HeapSort, InsertionSort, QuickSort, SelectionSort.
 
