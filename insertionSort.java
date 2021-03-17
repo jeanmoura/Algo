@@ -39,3 +39,4 @@ class InsertionSort {
 
 		printArray(arr);
 	}
+}
