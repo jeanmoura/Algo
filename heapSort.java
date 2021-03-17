@@ -1,5 +1,5 @@
 // Java program for implementation of Heap Sort
-public class HeapSort {
+class HeapSort {
 	public void sort(int arr[])
 	{
 		int n = arr.length;
