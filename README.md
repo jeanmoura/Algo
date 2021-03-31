@@ -1,3 +1,3 @@
-# Algorithms examples:
+# Algorithms:
 BubbleSort, BubbleSortImproved, HeapSort, InsertionSort, QuickSort, SelectionSort.
 
